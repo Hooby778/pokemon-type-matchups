@@ -1,0 +1,89 @@
+.o2{
+    background-color: springgreen;
+}
+.o0{
+    background-color: dimgray;
+}
+.o05{
+    background-color: crimson;
+}
+td{
+    background-color: khaki;
+}
+.normal{
+    background-color: burlywood
+}
+.fight{
+    background-color: firebrick
+}
+.fire{
+    background-color: red
+}
+.water{
+    background-color: blue
+}
+.grass{
+    background-color: forestgreen
+}
+.electric{
+    background-color: yellow
+}
+.fly{
+    background-color: deepskyblue
+}
+.ice{
+    background-color: lightblue
+}
+.rock{
+    background-color: darkgoldenrod
+}
+.ground{
+    background-color: goldenrod
+}
+.steel{
+    background-color: silver
+}
+.ghost{
+    background-color: purple
+}
+.psy{
+    background-color: violet
+}
+.dark{
+    background-color: darkslategray
+}
+.dragon{
+    background-color: navy
+}
+.fairy{
+    background-color: lightpink
+}
+.poison{
+    background-color: indigo
+}
+.bug{
+    background-color: lawngreen
+}
+th, td{
+    text-align: center;
+
+}
+#he1{
+    font-size: 25px;
+    Border: medium solid white;
+    background-color: white
+}
+#he2{
+    font-size: 22px;
+    Border: medium solid white;
+    background-color: white
+}
+th, td{
+    font-family: Impact;
+    padding: 10px 0px;
+    width: 90px;
+    margin: 0 auto;
+}
+table{
+    background-color: black;
+}
