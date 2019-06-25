@@ -1,5 +1,21 @@
+.typeChart{
+    display: grid;
+    grid-template-columns: repeat(19, 1fr);
+    grid-template-rows: repeat(19, 1fr);
+    border: 1px solid white;
+}
+div{
+    border: 1px solid black;
+    text-align: center;
+    width: 75px;
+    background-color: #f4f077;
+}
+.blank{
+    border: 1px solid white;
+    background-color: white;
+}
 .o2{
-    background-color: springgreen;
+    background-color: rgba(0, 255, 128, 0.753);
 }
 .o0{
     background-color: dimgray;
@@ -11,79 +27,77 @@ td{
     background-color: khaki;
 }
 .normal{
-    background-color: burlywood
+    background-color: burlywood;
 }
 .fight{
-    background-color: firebrick
+    background-color: firebrick;
 }
 .fire{
-    background-color: red
+    background-color: red;
 }
 .water{
-    background-color: blue
+    background-color: blue;
+    color: white;
 }
 .grass{
-    background-color: forestgreen
+    background-color: forestgreen;
 }
 .electric{
-    background-color: yellow
+    background-color: yellow;
 }
 .fly{
-    background-color: deepskyblue
+    background-color: deepskyblue;
 }
 .ice{
-    background-color: lightblue
+    background-color: lightblue;
 }
 .rock{
-    background-color: darkgoldenrod
+    background-color: darkgoldenrod;
 }
 .ground{
-    background-color: goldenrod
+    background-color: goldenrod;
 }
 .steel{
-    background-color: silver
+    background-color: silver;
 }
 .ghost{
-    background-color: purple
+    background-color: purple;
+    color: white;
 }
 .psy{
-    background-color: violet
+    background-color: violet;
 }
 .dark{
-    background-color: darkslategray
+    background-color: darkslategray;
+    color: white;
 }
 .dragon{
-    background-color: navy
+    background-color: navy;
+    color: white;
 }
 .fairy{
     background-color: lightpink
 }
 .poison{
-    background-color: indigo
+    background-color: indigo;
+    color: white;
 }
 .bug{
-    background-color: lawngreen
+    background-color: lawngreen;
 }
 th, td{
     text-align: center;
 
 }
-#he1{
+h1{
     font-size: 25px;
     Border: medium solid white;
-    background-color: white
+    background-color: white;
+    text-align: center;
 }
-#he2{
+h2{
     font-size: 22px;
     Border: medium solid white;
-    background-color: white
-}
-th, td{
-    font-family: Impact;
-    padding: 10px 0px;
-    width: 90px;
-    margin: 0 auto;
-}
-table{
-    background-color: black;
+    background-color: white;
+    text-align: center;
 }
